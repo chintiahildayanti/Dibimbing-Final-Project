@@ -1,8 +1,5 @@
 # Final Project - Analisis Pendapatan Masyarakat AS
 
-**Author**: Chintia Hildayanti  
-**Cohort**: DS26  
-
 ## 📄 Deskripsi Proyek
 
 Proyek ini menggunakan **Adult Census Income Dataset** dari [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult).
